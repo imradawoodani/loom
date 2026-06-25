@@ -1,4 +1,4 @@
-# 🧵 Loom
+# 🧵 Loom: Agent Marketplace
 
 > **The agent that shops the AI market so you don't have to.**
 
